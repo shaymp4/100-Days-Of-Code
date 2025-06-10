@@ -13,4 +13,4 @@ def calculator(num1, num2, operation):
     else:
         return 'Invalid Operation.'
 
-print(calculator(5, 3, 'Multiply'))
+print(calculator(5, 0, 'divide'))
